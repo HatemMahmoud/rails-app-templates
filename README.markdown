@@ -1,5 +1,5 @@
 # How to Use
 
 <pre>
-  rails new <app-name> -J -T -m <path-to-template>
+  rails new myapp -J -T -m https://github.com/hatem/rails-app-templates/raw/master/basic-template.rb
 </pre>
